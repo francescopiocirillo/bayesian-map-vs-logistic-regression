@@ -1,5 +1,8 @@
 # 📊 Bayesian MAP vs Logistic Regression for Binary Classification
 
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
+
 This project compares two approaches to binary classification: a **MAP classifier** with known probabilistic distributions, and a **logistic regression model** trained via stochastic gradient descent. It includes analytical derivations, visualizations, Monte Carlo simulations, and performance comparisons.
 
 > 🧠 This project showcases proficiency in machine learning, statistical modeling, and Python programming. Includes implementation of probabilistic classifiers (MAP, logistic regression), use of stochastic gradient descent, and performance evaluation via Monte Carlo simulation and error metrics.
