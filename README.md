@@ -2,6 +2,7 @@
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project compares two approaches to binary classification: a **MAP classifier** with known probabilistic distributions, and a **logistic regression model** trained via stochastic gradient descent. It includes analytical derivations, visualizations, Monte Carlo simulations, and performance comparisons.
 
