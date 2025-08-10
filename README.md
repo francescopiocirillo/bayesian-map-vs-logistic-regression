@@ -8,6 +8,9 @@
 
 > This project showcases proficiency in machine learning, statistical modeling, and Python programming. Includes implementation of probabilistic classifiers (MAP, logistic regression), use of stochastic gradient descent, and performance evaluation via Monte Carlo simulation and error metrics.
 
+📂 This project is part of a series of logistic regression case studies. For another similar project, see [bit-decoding-sgd-logistic-regression](https://github.com/francescopiocirillo/bit-decoding-sgd-logistic-regression).
+
+
 ## 📌 Objective
 
 The goal is to analyze and compare two different settings for binary classification:
